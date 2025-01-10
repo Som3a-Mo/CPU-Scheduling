@@ -48,7 +48,7 @@ The **CPU Scheduling Simulator** is a Java-based graphical application that simu
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/cpu-scheduling-simulator.git
+   git clone https://github.com/Som3a-Mo/CPU-Scheduling.git
    ```
 2. Open the project in your preferred IDE.
 3. Ensure all required libraries are available.
